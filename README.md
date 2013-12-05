@@ -1,4 +1,4 @@
-GlassAccelerometerDemo
+Glass Accelerometer Demo
 ======================
 
-GlassAccelerometerDemo
+It is what you think it is...
